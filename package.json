@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/provider-upload-cloudinary": "^4.5.1",
+    "@strapi/provider-upload-cloudinary": "4.0.0",
     "jsdom": "^17.0.0",
     "knex": "0.21.18",
     "pg": "8.5.1",
@@ -40,7 +40,7 @@
     "uuid": "0d4df776-9269-4cf7-b426-dfcb98d3c3c4"
   },
   "engines": {
-    "node": ">=14.16.0 <=16.x.x",
+    "node": ">=10.16.0 <=16.x.x",
     "npm": "^6.0.0"
   },
   "license": "MIT"
