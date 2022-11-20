@@ -11,6 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "@strapi/provider-upload-cloudinary": "^4.5.1",
     "jsdom": "^17.0.0",
     "knex": "0.21.18",
     "pg": "8.5.1",
